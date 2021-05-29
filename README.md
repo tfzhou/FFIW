@@ -1,6 +1,6 @@
 # FFIW
 
-![](figures/framework.png)
+![](framework.png)
 
 > [**Face Forensics in the Wild**](https://arxiv.org/abs/2103.16076),            
 > [Tianfei Zhou](https://www.tfzhou.com/), [Wenguan Wang](https://sites.google.com/view/wenguanwang/), Zhiyuan Liang and [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en) <br>
