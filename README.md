@@ -1,5 +1,3 @@
-# FFIW
-
 ![](framework.png)
 
 > [**Face Forensics in the Wild**](https://arxiv.org/abs/2103.16076),            
@@ -11,4 +9,4 @@ On existing public benchmarks, face forgery detection techniques have achieved g
 
 ## Dataset
 
-_The dataset will be made public available before 15 June. Please stay tuned._
+_The dataset will be made public available before June 15th. Please stay tuned._
