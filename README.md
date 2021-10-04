@@ -39,7 +39,7 @@ FFIW10K
 
 real                       |  fake
 :-------------------------:|:-------------------------:
-![](https://https://github.com/tfzhou/FFIW/video1_real.gif)  |  ![](https://https://github.com/tfzhou/FFIW/video1_fake.gif)
+![](video1_real.gif)  |  ![](video1_fake.gif)
 
 ## Citation
 If you find this work useful for your research, please cite our papers:
