@@ -26,7 +26,7 @@ FFIW10K
 
 ## Comparison with Other Datasets
 <p align="center">
-  <img src="images/dataset_comparison.png">
+  <img src="dataset_comparison.png">
 </p>
 
 ## Citation
