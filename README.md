@@ -37,6 +37,12 @@ FFIW10K
 
 ## Video Visualization
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 real                       |  fake
 :-------------------------:|:-------------------------:
 ![](video1_real.gif)  |  ![](video1_fake.gif)
